@@ -47,3 +47,23 @@ ne doivent être mis sur ce document.
 | France |  | https://www.facebook.com/reseauvictimesdaccidentsvaccinaux
 | France |  | https://association-victimes-coronavirus-france.org/
 | International | Drastic Research | https://drasticresearch.org/
+
+# FAQ
+
+## Que faire en cas de menace de licenciement pour cause de vaccination obligatoire?
+
+Conduite à tenir:
+
+1. Ne jamais démissionner, attendre d'être licencié(e)
+2. Ne jamais se faire vacciner de son propre gré, demander au préalable que votre hiérarchie signe cet engagement (par lettre recommandé en cas de refus)
+3. Après vous pourrez décider de vous faire vacciner, ou pas, en votre âme et conscience et avec un minimum de protection juridique.
+
+Voici un modèle de lettre à utiliser pour demander une trace écrite:
+
+> Je soussisigné(e) **Mr (Mme) Prénom Nom** né(e) le **JJ/MM/AAAA** à **Ville de naissance** exerçant en qualité de **Métier** dans l'établissement **Nom et adresse de l'établissement** déclare ne pas être consentant(e) pour me faire inoculer un vaccin contre la COVID19  qui est actuellement en cours d'essai clinique avec une AMM conditionnelle.
+>
+> J'accepte de me faire vacciner __uniquement__ parce que mon responsable hiérarchique **Mr (Mme) Prénom Nom**, dument habilité à représenter l'établissement, me menace de licenciement et me garanti que tout effet secondaire qui serait répertorié dans la liste de pharmacovigilance française, européenne ou américaine sera automatiquement indemnisé comme accident de travail, sans que j'ai à faire la preuve du lien de cause à effet (je suis actuellement en parfaite santé).
+>
+> Je déclare en outre que tout effet secondaire grave fera l'objet d'une plainte civile contre l'établissement et d'une plainte pénale contre le responsable hiérarchique qui m'aura contraint de participer à cet essai clinique contre ma volonté.
+>
+> Fait à **Nom de la ville** le **JJ//MM/AAAA**
