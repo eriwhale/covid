@@ -46,3 +46,4 @@ ne doivent être mis sur ce document.
 | France |  | https://solidariteactive.fr
 | France |  | https://www.facebook.com/reseauvictimesdaccidentsvaccinaux
 | France |  | https://association-victimes-coronavirus-france.org/
+| International | Drastic Research | https://drasticresearch.org/
