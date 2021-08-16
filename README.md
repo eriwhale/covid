@@ -22,6 +22,7 @@ ne doivent être mis sur ce document.
 | France | Contre l'obligation vaccinale des pompiers | en cours | https://association-victimes-coronavirus-france.org/contre-lobligation-vaccinale-pour-les-sapeurs-pompiers/
 | France | Contre l'obligation vaccinale des soignants | en cours | https://association-victimes-coronavirus-france.org/action-collective-contre-lobligation-vaccinale-pour-soignants/
 | France | Contre la publicité mensongère | en cours | https://association-victimes-coronavirus-france.org/plainte-contre-les-publicites-mensongeres-sur-vaccins-covid19/
+| France | Plainte contre le pass dans les transports | en cours | https://association-victimes-coronavirus-France.org/plainte-contre-le-pass-sanitaire
     
 # Pétitions
 
@@ -32,6 +33,11 @@ ne doivent être mis sur ce document.
 | France | Non au passeport vaccinal | https://www.petition-passeport-sanitaire.com/
 | France | Vaccination imposée à tous : dites NON maintenant | https://www.leslignesbougent.org/petitions/vaccination-imposee-a-tous-dites-non-maintenant-2342/
 | Philippes | CALL To Suspend Vaccination For Those Under 30 | https://www.ipetitions.com/petition/call-to-suspend-vaccination-for-those-under-32
+
+# Modèles de lettres
+
+| Pays | Description | Lien |
+|------|-------------|------|
 
 # Associations et Collectifs
 
@@ -67,3 +73,42 @@ Voici un modèle de lettre à utiliser pour demander une trace écrite:
 > Je déclare en outre que tout effet secondaire grave fera l'objet d'une plainte civile contre l'établissement et d'une plainte pénale contre le responsable hiérarchique qui m'aura contraint de participer à cet essai clinique contre ma volonté.
 >
 > Fait à **Nom de la ville** le **JJ//MM/AAAA**
+
+Voici aussi un autre modèle:
+
+> Madame, Monsieur,
+> 
+> J’ai bien reçu l’invitation pour recevoir un vaccin ARNm contre le SRAS-CoV-2 et vous en remercie.
+>
+> Avant de prendre une quelconque décision y étant relative j’aimerais que vous m’informiez (1) en me répondant par écrit (2) sur les points suivants qui me semblent fondamentaux :
+> 
+> 1. Me donner la liste complète des ingrédients des vaccins mis en circulation actuellement dans notre pays
+> 2. Me certifier que le vaccin que vous projetez de m’injecter ne contient pas de MRC5 (des cellules de fœtus avortés ou traces d’ADN humains), ce qui irait à l’encontre de mes principes
+> 3. Me certifier qu’il n’y a aucun risque de réactions iatrogènes
+> 4. M’informer de toutes les contre-indications et de tous les effets secondaires potentiels, réparables ou irréparables, à court, moyen et long termes
+> 5. Me certifier de façon sans équivoque et de bonne foi, dans le respect de l’article 13 de la Convention d’Oviedo (3), que cette technologie n’a pas le potentiel de modifier l’ADN humain grâce à ce que l’on appelle la transcriptase inverse, qui permet explicitement le transfert d’informations de l’ARNm à l’ADN
+> 6. Me certifier que ce vaccin ne contient pas d’inserts du virus VIH
+> 7. Me certifier que le vaccin ne contient pas de puce ’Identification par Radiofréquence (Rfid) ou de nano technologie se présentant sous une forme quelconque
+> 8.  Me certifier que tous les paramètres médicaux concernant les essais et les études requis ont été satisfaits
+> 9. Me préciser quels sont les autres traitements possibles pour lutter contre le SRAS-CoV-2 en détaillant les avantages et les inconvénients de chaque traitement, au sens de l’article 2 du Code de Nuremberg (4).
+>
+> De plus, je vous prie de bien vouloir me répondre simplement, par oui ou par non, aux questions suivantes :
+>
+> 1. Si je me fais vacciner, puis-je arrêter de porter un masque ?
+> 2. Si je me fais vacciner, puis-je arrêter la distanciation sociale ?
+> 3. Si je me fais vacciner, dois-je encore respecter le couvre-feu ?
+> 4. Si mes parents, mes grands-parents et moi-même sommes tous vaccinés, pouvons-nous nous étreindre à nouveau ?
+> 5. Si je me fais vacciner, serai-je résistant à la Covid et à ses nombreux variants et pour combien de temps ?
+> 6. Si je me fais vacciner, est-ce que j’éviterai les formes graves avec hospitalisation, ainsi que la mort ?
+> 7. Si je me fais vacciner, serai-je contagieux pour les autres ?
+> 8. Si j'éprouve une réaction indésirable grave, des effets à long terme (encore inconnus) entraînant même la mort, serai-je (ou ma famille) indemnisé ?
+>
+> D’autre part, outre vos réponses, je compte m’informer de façon contradictoire par les indications données par les laboratoires et les experts officiels du Gouvernement, mais aussi par des scientifiques indépendants et des témoignages de personnes ayant déjà été vaccinées : ce n’est que lorsque j’aurai recueilli toutes ces informations que je serai à même de vous remettre mon consentement libre et éclairé (5), après avoir évalué objectivement la balance bénéfice/risque.
+>
+> Le cas échéant, je reviendrai vers vous, en ayant éventuellement sélectionné le vaccin qui me conviendrait le mieux.
+>
+> Je suis en parfaite santé, ce qui me permet de prendre un peu de recul afin de prendre une décision réfléchie et responsable, ayant toujours en mémoire le serment d’Hippocrate qui reste la pierre fondatrice de notre médecine : « primum non nocere ».
+> 
+> Recevez, Madame, Monsieur, l’assurance de ma meilleure considération.
+
+Faites aussi un bilan de santé (en particulier sanguin) avant de faire l'injection pour prouver votre état de santé.
