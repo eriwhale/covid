@@ -43,15 +43,16 @@ ne doivent être mis sur ce document.
 
 | Pays | Description | lien |
 |------|-------------|------|
-| France |  | https://reinfocovid.fr/
-| France |  | https://www.bon-sens-belgique.be/
-| France |  | https://bonsens.info/
-| France |  | https://collectifdesantepediatrique.fr/
-| France |  | https://reinfosante.fr/
-| France |  | https://www.covidhub.ch/
-| France |  | https://solidariteactive.fr
-| France |  | https://www.facebook.com/reseauvictimesdaccidentsvaccinaux
-| France |  | https://association-victimes-coronavirus-france.org/
+| France | ReinfoCovid | https://reinfocovid.fr/
+| Belgique | Association Bon Sens Belgique | https://www.bon-sens-belgique.be/
+| France | Association Bon Sens | https://bonsens.info/
+| France | Collectif de santé pédiatrique | https://collectifdesantepediatrique.fr/
+| France | ReingoSante | https://reinfosante.fr/
+| France | Covid Hub | https://www.covidhub.ch/
+| France | Réseau Solidarité Active | https://solidariteactive.fr
+| France | Réseaux des victimes d'accidents vaccinaux | https://www.facebook.com/reseauvictimesdaccidentsvaccinaux
+| France | Association victimes coronavirus  | https://association-victimes-coronavirus-france.org/
+| France | Gendarmes Libres | https://www.leetchi.com/c/gendarmes-libres
 | International | Drastic Research | https://drasticresearch.org/
 
 # FAQ
